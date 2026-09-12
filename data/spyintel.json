@@ -1,0 +1,41 @@
+{
+  "418600421595021313": {
+    "272077746568560650": {
+      "time": 1758566399967,
+      "defenseActive": 0,
+      "defenseLevel": 0,
+      "troops": 2793,
+      "coins": 13
+    },
+    "1264764751892709389": {
+      "time": 1758477346415,
+      "defenseActive": false,
+      "defenseLevel": 5,
+      "troops": 249,
+      "coins": 1553463
+    },
+    "662143598300626967": {
+      "time": 1758605626273,
+      "defenseActive": null,
+      "defenseLevel": null,
+      "troops": null,
+      "coins": null
+    },
+    "1217412334050349079": {
+      "time": 1758743634558,
+      "defenseActive": 0,
+      "defenseLevel": 0,
+      "troops": 2,
+      "coins": 306194
+    }
+  },
+  "848228560681435156": {
+    "1264764751892709389": {
+      "time": 1758854268301,
+      "defenseActive": null,
+      "defenseLevel": null,
+      "troops": null,
+      "coins": null
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "prefix": "-",
+  "color": "#000002",
+  "logo": "https://i.imgur.com/E24NFEP.png",
+  "uniform": {
+    "image": "https://i.imgur.com/sOXnxuI.png",
+    "items": [
+      "Type !a MB into the game chatbar!"
+    ]
+  },
+  "allies": [
+    "None"
+  ],
+  "roles": {
+    "eventPing": "1528847384325521479",
+    "staff": "1528839137170296985",
+    "activated": "1532449029076684820",
+    "rankManager": [
+      "1528808275007766618",
+      "1528808769818071291"
+    ],
+    "visitor": "1528893791312941237",
+    "superVisitor": "1528893791312941237",
+    "recruit": "1446548263166677093",
+    "sergeantFirstClass": "1528846826546004190",
+    "shadow": "1541182524976275496",
+    "eclipse": "1541182526029037660",
+    "blackOut": "1541182526398267492",
+    "darkHonour": "1541182532090077194"
+  },
+  "ranks": [
+    "Right Hand",
+    "War Chief",
+    "Quartermaster",
+    "Wagonmaster",
+    "Bivouac Guardian",
+    "Wrangler",
+    "Trail Warden",
+    "Deadeye",
+    "Gunslinger",
+    "Trigger",
+    "Outlaw",
+    "Highwayman",
+    "Drifter",
+    "Rustler",
+    "Runner",
+    "Stray"
+  ],
+  "channels": {
+    "rankLogs": "1528896023928373468",
+    "emojiLog": "1528804469461221578",
+    "eventVoice": "1528832733839622266"
+  },
+  "emojiMap": {
+    "E1": "E1",
+    "E2": "E2",
+    "E3": "E3",
+    "E4": "E4",
+    "E5": "E5",
+    "E6": "E6",
+    "E7": "E7",
+    "E8": "E8",
+    "E9": "E9",
+    "E0": "E0",
+    "EZ": "EZ",
+    "EW": "EW",
+    "EQ": "EQ",
+    "ET": "ET",
+    "EM": "EM",
+    "EL": "EL",
+    "EK": "EK",
+    "EY": "EY",
+    "EP": "EP",
+    "EF": "EF",
+    "EC": "EC",
+    "EX": "EX",
+    "EN": "EN",
+    "ED": "ED",
+    "EH": "EH",
+    "EG": "EG",
+    "ES": "ES",
+    "ER": "ER",
+    "EB": "EB",
+    "EI": "EI",
+    "EU": "EU",
+    "EA": "EA"
+  }
+}
