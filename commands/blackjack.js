@@ -1,5 +1,5 @@
 const { ActionRowBuilder, ButtonBuilder, ButtonStyle, EmbedBuilder } = require('discord.js');
-const { ensureEconomyUser, addBalance, modifyBalance, addBlackjackWin, DWCOIN_EMOJI, formatCoins } = require('../economydata');
+const { ensureEconomyUser, addBalance, modifyBalance, addBlackjackWin, DWCOIN_EMOJI, formatCoins } = require('../economyData.js');
 
 const suits = ['♠️','♥️','♦️','♣️'];
 const ranks = ['A','2','3','4','5','6','7','8','9','10','J','Q','K'];
